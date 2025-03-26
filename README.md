@@ -1,5 +1,5 @@
-# Stephanie
-Introducing Me
+# Introducing Me
+
 
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 A detail-oriented Data Analyst, I leverage my expertise in tools like Python, SQL, and visualization platforms to make sense of complex datasets and uncover meaningful patterns. Whether it’s predicting market trends or creating dashboards that bring clarity, I’m passionate about using data to solve problems and drive business growth. From uncovering hidden trends to delivering actionable insights. I thrive on transforming data into great stories that drive smarter business decisions.</h3>
